@@ -34,6 +34,36 @@
             "slimes": "Slimes",
             "gear": "Gear",
             "guides": "Guides"
+        },
+        "slimes": {
+            "name": "Aelwenya",
+            "desc": "",
+            "content": "",
+            "aelwenya": {
+                "name": "",
+                "desc": "",
+                "skills": {
+                    "1": {
+                        "name": "",
+                        "desc": ""
+                    },
+                    "2": {
+                        "name": "",
+                        "desc": ""
+                    },
+                    "3": {
+                        "name": "",
+                        "desc": ""
+                    },
+                    "4": {
+                        "name": "",
+                        "desc": ""
+                    }
+                }
+            },
+            "panpan": {
+                "name": ""
+            }
         }
     },
     "common": {
