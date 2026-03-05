@@ -66,7 +66,9 @@
             }
         },
         "intro": "Welcome to the Slime Castle Wiki! Here you can find information about all game content — slimes, artifacts, sets, bosses, and more.",
-        "version": "2.9.4"
+        "version": "2.9.4",
+        "all_changelogs": "View all changelogs →",
+        "no_changelogs": "No changelogs yet."
     },
     "common": {
         "save": "Save",
