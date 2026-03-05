@@ -64,7 +64,8 @@
             "panpan": {
                 "name": "Panpan"
             }
-        }
+        },
+        "intro": "Welcome to the Slime Castle Wiki! Here you can find information about all game content — slimes, artifacts, sets, bosses, and more."
     },
     "common": {
         "save": "Save",
