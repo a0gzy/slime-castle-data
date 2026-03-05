@@ -65,7 +65,8 @@
                 "name": "Panpan"
             }
         },
-        "intro": "Welcome to the Slime Castle Wiki! Here you can find information about all game content — slimes, artifacts, sets, bosses, and more."
+        "intro": "Welcome to the Slime Castle Wiki! Here you can find information about all game content — slimes, artifacts, sets, bosses, and more.",
+        "version": "2.9.4"
     },
     "common": {
         "save": "Save",
