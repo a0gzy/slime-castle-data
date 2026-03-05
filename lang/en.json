@@ -40,7 +40,7 @@
             "desc": "All about slimes",
             "content": "",
             "aelwenya": {
-                "name": "",
+                "name": "Aelwenya",
                 "desc": "",
                 "skills": {
                     "1": {
@@ -62,7 +62,7 @@
                 }
             },
             "panpan": {
-                "name": ""
+                "name": "Panpan"
             }
         }
     },
